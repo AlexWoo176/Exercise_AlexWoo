@@ -9,7 +9,7 @@ public class Main {
         rect1.setWidth(20);
         System.out.println(rect1.toString());
 
-        Rectangle rect2 = new Rectangle(40,50);
+        Rectangle rect2 = new Rectangle(50,75);
         System.out.println("The Information Of Rectangle 2: ");
         System.out.println(rect2.toString());
     }
